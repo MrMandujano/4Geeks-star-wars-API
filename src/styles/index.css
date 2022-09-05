@@ -1,0 +1,16 @@
+/* 
+    General Styles
+*/
+
+#cardCh{
+    background-color: rgb(42, 42, 42);
+}
+
+#cardChA{
+    border-radius: 100px;
+}
+
+#homeT{
+   margin-top: 100px;
+    text-align: center;
+}

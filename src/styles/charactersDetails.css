@@ -1,0 +1,37 @@
+#chaD{
+    margin-top: 100px;
+}
+
+
+#chD{
+    background-color: black;
+}
+
+#chTxtT{
+    color: yellow;
+}
+
+#chTxtD{
+    color: yellow;
+}
+
+#chTxtI{
+    color: yellow;
+}
+
+#charDi{
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 0px;
+    border-color: yellow;
+    border-style: solid;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+}
+#hrD{
+    border: 1px;
+    color: rgb(0, 255, 0);
+    border-style: solid;
+
+}
